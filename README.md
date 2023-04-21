@@ -1,10 +1,6 @@
 # Happy Eid Mubarak 1443 H
 
-Selamat Idul Fitri 1443 Hijriah, semoga Allah senantiasa melimpahkan rahmatnya kepada kita semua dan segala amal perbuatan selama bulan ramadhan kita dapat diterima
-
-## Deployment
-
-Terbit di halaman [GitHub](https://chrisnaadhi.github.io/eid-mubarak/)
+Selamat Idul Fitri 1444 Hijriah, semoga Allah senantiasa melimpahkan rahmatnya kepada kita semua dan segala amal perbuatan selama bulan ramadhan kita dapat diterima
 
 ## Installation
 
