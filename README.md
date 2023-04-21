@@ -7,7 +7,7 @@ Selamat Idul Fitri 1444 Hijriah, semoga Allah senantiasa melimpahkan rahmatnya k
 Install project ini dengan melakukan clone atau degit
 
 ```bash
-  npx degit https://github.com/chrisnaadhi/eid-mubarak
+  npx degit https://github.com/YAF11/eid-mubarak
   npm install
   npm run dev
 ```
